@@ -47,8 +47,8 @@ class MyHomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text('A random AWESOME idea:'),
             BigCard(pair: pair),
+            const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
                 appState.getNext();
