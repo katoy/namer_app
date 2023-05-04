@@ -1,5 +1,7 @@
 # namer_app
 
+![namer](./screenshots/namer.gif)
+
 ## See
 
 - <https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0>
